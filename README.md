@@ -8,7 +8,7 @@ E aí? Beleza? Eu sou o Douglas Belizario!
 
 <div>
   <a href="https://github.com/douglasbelizario/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=douglasbelizario&show_icons=true&theme=dark&hide_rank=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=douglasbelizario&show_icons=true&theme=dark&hide_rank=false" />
 </a>
 <a href="https://github.com/douglasbelizario/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=douglasbelizario&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark" />
