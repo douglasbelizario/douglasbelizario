@@ -4,7 +4,6 @@ E aí? Beleza? Eu sou o Douglas Belizario!
 - 🔭 Hoje trabalho como produtor de conteúdo do canal web3dev
 - 🌱 Estudando node.js
 - 💬 Contate-me no email: doug0423@hotmail.com
-- 😄 Pronomes: ele/dele
 
 <div>
   <a href="https://github.com/douglasbelizario/github-readme-stats">
