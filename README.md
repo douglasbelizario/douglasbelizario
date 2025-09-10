@@ -2,7 +2,7 @@ E aí? Beleza? Eu sou o Douglas Belizario!
 
 
 - 📚 Atualmente, estou cursando Gestão da Informação na Universidade Federal de Uberlândia.
-- ☕ Estudando Java
+- 🐍 Estudando Python
 
 <div>
   <a href="https://github.com/douglasbelizario/github-readme-stats">
